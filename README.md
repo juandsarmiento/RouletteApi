@@ -1,4 +1,4 @@
-# RuletaApp
+# RouletteApi
 WebApi with Net.Core and MongoDB for creating roulettes and bets
 # Getting started
 1.  Build Solution
